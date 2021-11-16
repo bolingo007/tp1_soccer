@@ -8,7 +8,7 @@
   <?php include "menu.html";?>
 
 <div>
-  à faire
+  Je vais le faire
 </div>
 
 </body>
