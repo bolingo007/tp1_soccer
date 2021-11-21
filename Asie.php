@@ -6,7 +6,7 @@
 <style></style>
 <title> Qualifications Asie </title>
 </head>
-<body>
+<body style="background-color:#e6ffe6;">
   <?php include "menu.html";?>
 
 <div>

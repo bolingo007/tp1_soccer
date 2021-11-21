@@ -6,7 +6,7 @@
 <style></style>
 <title> Historique de la Coupe du Monde</title>
 </head>
-<body>
+<body style="background-color:#e6ffe6;">
   <?php include "menu.html";?>
 
 <div>
