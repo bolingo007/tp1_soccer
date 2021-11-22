@@ -12,11 +12,14 @@
 <div>
   <h1> Les qualifications pour la Coupe du Monde </h1>
   <h2> Les Amériques </h2>
-
-<a href="https://en.wikipedia.org/wiki/CONMEBOL">
-  <img src="./images/CONMEBOL.png" alt="CONMEBOL"></a>
-<a href="https://en.wikipedia.org/wiki/CONCACAF">
-  <img src="./images/CONCACAF.png" alt="CONCACAF"></a>
+  <div class="col-md-12">
+    <a href="https://en.wikipedia.org/wiki/CONMEBOL">
+      <img class="pull-left pull-right m-5 pb-5" src="./images/CONMEBOL.png" alt="CONMEBOL"></a>
+  </div>
+  <div class="col-md-12">
+    <a href="https://en.wikipedia.org/wiki/CONCACAF">
+      <img class="pull-left pull-right m-5 pb-5" src="./images/CONCACAF.png" alt="CONCACAF"></a>
+  </div>
 
 Malgré la domination <a href="./Europe.php"> Européenne </a> de l’ère moderne, <strong>les Amériques</strong> (plus particulièrement <a href="https://en.wikipedia.org/wiki/CONMEBOL"> l’Amérique du Sud </a>) sont reconnues comme des superpuissance de <a href="https://en.wikipedia.org/wiki/Association_football"> soccer </a>. En effet, le <a href="https://en.wikipedia.org/wiki/Brazilian_Football_Confederation"> Brésil </a> est le pays le plus titré de l’histoire de la <a href="https://en.wikipedia.org/wiki/FIFA_World_Cup"> <strong> Coupe du Monde </strong> </a> avec 5 championnats (1958, 1962, 1970, 1994 et 2002) et <a href="https://en.wikipedia.org/wiki/Argentine_Football_Association"> l’Argentine </a>, avec ces 2 victoires (1978 et 1986). 
 
