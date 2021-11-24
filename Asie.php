@@ -15,7 +15,7 @@
   <br/>
   <div class="col-md-12">
       <a href="https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_qualification_(AFC)">
-        <img class="pull-left m-3 pb-3" src="./images/AFC_Asian_Qualifiers.png" alt="AFC Asian Cup Qualifiers"></a>
+        <img class="pull-left m-3 pb-3" src="./images/AFC_Asian_Qualifiers.png" alt="AFC qualifications zone Asie"></a>
   </div>
   <h2 class="text-center"> AFC (fédération asiatique de football)</h2>
   <br/>
